@@ -1,0 +1,7 @@
+Règles du jeu:
+
+Invoquer des unités à partir du château du joueur pour aller détruire le château adverse avec ceux-ci.
+Pour invoquer des unités ils faut disposer d’un certain nombre de points de magie qui sera différente
+ en fonction du mob ou de son amélioration.
+Plusieurs améliorations pourront être effectués (améliorer les unités, le château, le nombre de point de régénération de magie.)
+L’ennemi/l’adversaire invoquera des monstres qui essayent de détruire notre château.
